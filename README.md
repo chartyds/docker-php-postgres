@@ -7,4 +7,10 @@ Included PHP Modules
  - intl
  - pdo
  - pdo_pgsql
+ - pgsql
+ - gd
+
+Extra Apache Modules Enabled:
+ - rewrite
+ - header
 
