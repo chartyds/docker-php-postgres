@@ -1,4 +1,4 @@
-FROM php:5.6-apache
+FROM php:7.1.23-alpine3.7
 
 #RUN apt-get update -y && apt-get install -y \
         #libicu-dev \
